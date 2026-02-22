@@ -1,0 +1,10 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 18,
+  "logoURI": "https://assets.coingecko.com/coins/images/325/logo.png",
+  "price": {
+    "usd": 1.0000
+  },
+  "address": "0xa40b960f464868aBd0d5993eA449d23278254619"
+}
